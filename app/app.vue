@@ -59,55 +59,25 @@
         </div>
       </section>
 
-      <section id="projects" class="section section-projects">
+      <section id="projects" class="section section-dark">
         <div class="container">
           <h2>Featured Projects</h2>
           <p class="section-subtext dark">A snapshot of work delivered with precision and care.</p>
           <div class="cards three">
             <article class="project">
               <div class="thumb" />
-              <h3>ADU and JDU Construction</h3>
-              <p>Accessory and junior dwelling unit projects designed for efficient space and code compliance.</p>
+              <h3>Modern Home Build</h3>
+              <p>Custom residential project with energy-efficient materials and a fast delivery schedule.</p>
             </article>
             <article class="project">
               <div class="thumb" />
-              <h3>Building Construction</h3>
-              <p>Ground-up construction services for residential and commercial buildings with full project coordination.</p>
+              <h3>Office Renovation</h3>
+              <p>End-to-end renovation for a growing business, including interior fit-out and utilities.</p>
             </article>
             <article class="project">
               <div class="thumb" />
-              <h3>Office and Home Renovation</h3>
-              <p>Complete interior and structural renovation for offices and homes with quality finishing.</p>
-            </article>
-            <article class="project">
-              <div class="thumb" />
-              <h3>Security System Integration</h3>
-              <p>Integrated camera and sensor systems for better property safety, monitoring, and control.</p>
-            </article>
-            <article class="project">
-              <div class="thumb" />
-              <h3>Home Cinemas Installation</h3>
-              <p>Custom home cinema setup including layout planning, equipment installation, and tuning.</p>
-            </article>
-            <article class="project">
-              <div class="thumb" />
-              <h3>Plumbing Services</h3>
-              <p>Complete plumbing installations, upgrades, and repairs for residential and commercial properties.</p>
-            </article>
-            <article class="project">
-              <div class="thumb" />
-              <h3>Roofing Services</h3>
-              <p>Roof installation, replacement, and weatherproofing solutions built for long-term durability.</p>
-            </article>
-            <article class="project">
-              <div class="thumb" />
-              <h3>Electrical Services</h3>
-              <p>Safe electrical system installation and modernization, including panels, wiring, and fixtures.</p>
-            </article>
-            <article class="project">
-              <div class="thumb" />
-              <h3>Garden and Landscape Design</h3>
-              <p>Outdoor space planning and landscape design that combines beauty, function, and long-term value.</p>
+              <h3>Retail Expansion</h3>
+              <p>New retail extension designed for customer flow, functionality, and long-term value.</p>
             </article>
           </div>
         </div>
@@ -314,11 +284,6 @@ h1 {
 .section-dark {
   background: #111111;
   color: #ffffff;
-}
-
-.section-projects {
-  background: #fff5c7;
-  color: #111111;
 }
 
 h2 {
