@@ -73,3 +73,15 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Deploy To Koyeb (Dockerfile)
+
+This repository includes a root `Dockerfile` that builds and runs the `clp` app.
+
+In Koyeb, use:
+
+1. Source: Git repository
+2. Builder: Dockerfile
+3. Dockerfile path: `Dockerfile`
+4. Work directory: repository root (leave empty/default)
+5. Exposed port: `8000`
